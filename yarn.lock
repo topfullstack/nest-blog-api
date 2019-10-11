@@ -3147,6 +3147,11 @@ neo-async@^2.6.0:
   resolved "https://registry.npm.taobao.org/neo-async/download/neo-async-2.6.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fneo-async%2Fdownload%2Fneo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha1-rCetpmFn+ohJpq3dg39rGJrSCBw=
 
+nestjs-mongoose-crud@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/nestjs-mongoose-crud/-/nestjs-mongoose-crud-1.0.4.tgz#69420d8912ae9cad629648e8532a19e77c6b71de"
+  integrity sha512-u0R4vOZ+kU+SMf2B6zfkZq+PM79WrBDtyT9YW68EOHRwocnMSn1OPS598uCTNnB09ucy8Y/nsGeM2hIosxaVmw==
+
 nestjs-typegoose@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/nestjs-typegoose/-/nestjs-typegoose-7.0.0.tgz#aa638c06bd4b35c3ac1db9384d1e3ba354665d67"
